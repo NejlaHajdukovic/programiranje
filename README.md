@@ -1,3 +1,9 @@
+# Sadržaj:
+Kako napraviti sadržaj
+1. [(zanimljiva) informatika](#(zanimljiva)-informatika)
+2. [Tabele i slike](#Tabele-i-slike)
+3. [Programski jezik: C++](#Programski-jezik:-C++)
+
 # (zanimljiva) informatika
 U ovom naslovu ću da opišem svoje zadatke ukratko. Ja sam u ovom zadatku našla NZD od 3 unesna broja. Napravila sam funkciju NZD koju sam u main djelu iskoristila.
 U svom drugom zadatku sam napravila prgram koji izračunava vjerovatnoću koliko puta ćemo dobit barem jedno pismo i barem jednu glavu u 1000 bacanja novćića.
@@ -7,7 +13,7 @@ Evo jedna slika:
 
 ![image](https://github.com/NejlaHajdukovic/programiranje/assets/169186365/3bd2ca85-fb20-4575-9519-ceac27306712)
 
-## Ovo je moj raspored i par slika sa screenova
+## Tabele i slike
 
 | PON | UTO | SRI | ČET | PET |
 |-----|-----|-----|-----|-----|
@@ -34,12 +40,18 @@ C++ je programski jezik opće namjene i srednje razine s podrškom za objektno o
 Povijest razvoja:
 Godine 1979. Bjarne Stroustrup, danski računalni znanstvenik iz Bell Labsa, započeo je razvoj C++ jezika kojeg je prvo nazvao "C" s klasama koji je bio preteća za C++. Poticaj za stvaranje novog programskog jezika proisteklo je iz njegovog rada na dokorskoj disertaciji u kojem se susreo s dilemom gdje je programski jezik Simula bio dobar za složene programske projekte, dok je programski jezik BCPL bio brz ali je bio na jako niskoj razini da bude praktičan za primjenu. Kada je Stroustrup počeo raditi za AT&Tove Bell laboratorije, i kada je počeo analizirati jezgru operacijskog sustava UNIX za distribuirano računarstvo. Za taj problem primijenio je svoje iskustvo iz svog doktorskog rada, tako što je počeo dodavati produžetke koje postoje u jeziku Simula za programski jezik C, kojeg je on rabio jer je bio dostupan, brz, i lako prenosiv na druge platforme. Ovaj produženi C programski jezik, prvo se zvao "C s klasama" no će formalno dobiti naziv C++ krajem 1983., uzimajući da je "++" znak za povećavanje u programskom jeziku C. U listopadu 1985. godine prva komercijalna distribucija jezika predstavljena je javnosti u knjizi The C++ Programming Language čiji je autor spomenuti Bjarne Stroustrup.
 
-Vrste podataka:
-Znakovni: char, wchar_t
-Cijeli brojevi: short, int, long, long long
-Brojevi s decimalnim zarezom: float, double, long double
-Logički (Boolean): bool
-Praznine: void
+- Vrste podataka:
+- Znakovni: 
+  - char, wchar_t
+- Cijeli brojevi:
+  - short, int, long, long long
+- Brojevi s decimalnim zarezom:
+  -  float, double, long double
+- Logički (Boolean):
+  -  bool
+- Praznine:
+  - void
+  
 
 #### Sadržaj:
 1. [(zanimljiva) informatika](#(zanimljiva)-informatika)
