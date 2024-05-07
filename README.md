@@ -1,5 +1,7 @@
 # (zanimljiva) informatika
 U ovom naslovu ću da opišem svoje zadatke ukratko. Ja sam u ovom zadatku našla NZD od 3 unesna broja. Napravila sam funkciju NZD koju sam u main djelu iskoristila.
+U svom drugom zadatku sam napravila prgram koji izračunava vjerovatnoću koliko puta ćemo dobit barem jedno pismo i barem jednu glavu u 1000 bacanja novćića.
+U svom trećem zadatku
 ## Ovo je moj raspored
 
 | PON | UTO | SRI | ČET | PET |
