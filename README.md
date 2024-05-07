@@ -1,13 +1,13 @@
 # Sadržaj:
-Kako napraviti sadržaj
 1. [(zanimljiva) informatika](#(zanimljiva)-informatika)
 2. [Tabele i slike](#Tabele-i-slike)
 3. [Programski jezik C++](#Programski-jezik-C++)
 
 # (zanimljiva) informatika
-U ovom naslovu ću da opišem svoje zadatke ukratko. Ja sam u ovom zadatku našla NZD od 3 unesna broja. Napravila sam funkciju NZD koju sam u main djelu iskoristila.
+U ovom naslovu ću da opišem svoje zadatke ukratko.Prvi zadatak:ja sam u ovom zadatku našla NZD od 3 unesna broja. Napravila sam funkciju NZD koju sam u main djelu iskoristila.
 U svom drugom zadatku sam napravila prgram koji izračunava vjerovatnoću koliko puta ćemo dobit barem jedno pismo i barem jednu glavu u 1000 bacanja novćića.
 U svom trećem zadatku radila sam Fibonaccijeve brojeve tj. niz tih brojeva koji podrazumjeva niz u kojem su prva dva člana niza 1 a svaki sljedeći član je zbir prethodna dva.
+Šta su Fibonaccijevi brojevi i kako su nastali?
 
 Evo jedna slika:
 
@@ -53,8 +53,12 @@ Godine 1979. Bjarne Stroustrup, danski računalni znanstvenik iz Bell Labsa, zap
   - void
   
 
-#### Sadržaj:
-1. [(zanimljiva) informatika](#(zanimljiva)-informatika)
-2. [Ovo je moj raspored i par slika sa screena](#Ovo-je-moj-raspored-i-par-slika-sa-screena)
-3. [C++](#C++)
+#### Biblioteka cmath
+Ovo je moja omiljena biblioteka tj. koriteći ovu biblioteku meni su bili najzanimljiviji zadaci.C++ poseduje mnogo pripremljenih, gotovih funkcija razvrstanih u odgovarajuće biblioteke. Većina matematičkih funkcija nalazi se je u biblioteci cmath. Za korišćenje funkcija pomenute biblioteke cmath, neophodno je uključiti  pretprocesorsku reč #include. Evo par primjera zadataka sa tom bibliotekom.
+
+![image](https://github.com/NejlaHajdukovic/programiranje/assets/169186365/d95a3cdc-9e82-444c-be02-4863674bbfec)
+![image](https://github.com/NejlaHajdukovic/programiranje/assets/169186365/2e3daf88-ddfe-4cc9-afe5-9d4f7b67a52b)
+
+
+
 
