@@ -2,7 +2,7 @@
 Kako napraviti sadržaj
 1. [(zanimljiva) informatika](#(zanimljiva)-informatika)
 2. [Tabele i slike](#Tabele-i-slike)
-3. [Programski jezik: C++](#Programski-jezik-C++)
+3. [Programski jezik C++](#Programski-jezik-C++)
 
 # (zanimljiva) informatika
 U ovom naslovu ću da opišem svoje zadatke ukratko. Ja sam u ovom zadatku našla NZD od 3 unesna broja. Napravila sam funkciju NZD koju sam u main djelu iskoristila.
