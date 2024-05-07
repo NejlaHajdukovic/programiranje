@@ -2,7 +2,7 @@
 Kako napraviti sadržaj
 1. [(zanimljiva) informatika](#(zanimljiva)-informatika)
 2. [Tabele i slike](#Tabele-i-slike)
-3. [Programski jezik: C++](#Programski-jezik:-C++)
+3. [Programski jezik: C++](#Programski-jezik-C++)
 
 # (zanimljiva) informatika
 U ovom naslovu ću da opišem svoje zadatke ukratko. Ja sam u ovom zadatku našla NZD od 3 unesna broja. Napravila sam funkciju NZD koju sam u main djelu iskoristila.
@@ -33,7 +33,7 @@ Evo jedna slika:
 
 
 
-### Programski jezik: C++
+### Programski jezik C++
 
 C++ je programski jezik opće namjene i srednje razine s podrškom za objektno orijentirano programiranje. Prvobitno je razvijan u Bell Labs (laboratoriju telekomunikacijske tvrtke Bell) pod rukovodstvom Bjarnea Stroustrupa tijekom 1980-ih, i to kao proširenje programskom jeziku C pa mu je originalno ime bilo "C with classes" (eng. C s klasama). Zbog velike potražnje za objektno orijentiranim jezicima te izrazitim sposobnostima istih, specifikacija programskog jezika C++ ratificirana je 1998. kao standard ISO/IEC 14882.
 
