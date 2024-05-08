@@ -4,8 +4,8 @@
 3. [Programski jezik C++](#Programski-jezik-C++)
 
 # (zanimljiva) informatika
-U ovom naslovu ću da opišem svoje zadatke ukratko.Prvi zadatak:ja sam u ovom zadatku našla NZD od 3 unesna broja. Napravila sam funkciju NZD koju sam u main djelu iskoristila.
-U svom drugom zadatku sam napravila prgram koji izračunava vjerovatnoću koliko puta ćemo dobit barem jedno pismo i barem jednu glavu u 1000 bacanja novćića.
+U ovom naslovu ću da opišem svoje zadatke ukratko.Prvi zadatak: ja sam u ovom zadatku našla NZD od 3 unesna broja. Napravila sam funkciju NZD koju sam u main djelu iskoristila.
+U svom drugom zadatku sam napravila prgram koji izračunava vjerovatnoću koliko puta ćemo dobit barem jedno pismo i barem jednu glavu u 100 bacanja novćića.
 U svom trećem zadatku radila sam Fibonaccijeve brojeve tj. niz tih brojeva koji podrazumjeva niz u kojem su prva dva člana niza 1 a svaki sljedeći član je zbir prethodna dva.
 Šta su Fibonaccijevi brojevi i kako su nastali?
 
